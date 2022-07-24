@@ -167,7 +167,7 @@ You can read this file in Python like this:
 
 
 ## Acknowledgements
-I would like to extend a special thanks to [Orefice lab](https://www.oreficelab.org/) members Yuki Dai and Kelsey Clausing for animal behavior data acquisition and productive discussion. I also want to thank Talmo Pereira for helpful guidance and suggestions. If you have any issues, or can't get SLEAP running, or just have questions, please raise an issue on <a href="https://github.com/talmolab/sleap/issues">Github</a>.
+I would like to extend a special thanks to Orefice lab members Yuki Dai and Kelsey Clausing for animal behavior data acquisition and productive discussion. I also want to thank Talmo Pereira for helpful guidance and suggestions. If you have any issues, or can't get SLEAP running, or just have questions, please raise an issue on <a href="https://github.com/talmolab/sleap/issues">Github</a>.
 
 ## References
 
