@@ -4,7 +4,7 @@ SLEAP is an open source deep-learning based framework for multi-animal pose trac
 
 ![enter image description here](https://sleap.ai/docs/_static/sleap_movie.gif)
 
- - Written by Yi (Daniel) Lu 
+ - Written by Yi Lu 
  - Yi_Lu@hms.harvard.edu
 
 # Instructions for getting started
